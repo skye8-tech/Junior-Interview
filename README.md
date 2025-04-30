@@ -94,8 +94,6 @@ If time permits, consider writing an additional function that checks:
 ---
 
 ### ⏰ **Time Allocation**  
-Recommended time: **30–45 minutes**
+Time: **30–45 minutes**
 
 ---
-
-Would you like a downloadable version of this as a PDF or a Markdown document you can directly share with candidates or upload to your internship portal?
